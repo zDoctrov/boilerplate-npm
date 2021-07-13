@@ -1,6 +1,6 @@
 {
-	"author": "Zachary Doctrove",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Zachary Doctrove",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
